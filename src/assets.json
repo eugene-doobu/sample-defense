@@ -1,4 +1,18 @@
 {
+  "images": {
+    "background": {
+      "url": "https://agent8-games.verse8.io/assets/2d/vampire_survival_riped_asset/background_tile/tile.png",
+      "description": "Game background tile image"
+    },
+    "tower": {
+      "url": "https://placehold.co/100x200?text=Tower",
+      "description": "Player tower sprite"
+    },
+    "enemyTower": {
+      "url": "https://placehold.co/100x200?text=EnemyTower",
+      "description": "Enemy tower sprite"
+    }
+  },
   "monsters": {
     "basic": {
       "url": "https://placehold.co/100x100?text=Basic",
@@ -37,30 +51,34 @@
   },
   "commanders": {
     "commander1": {
-      "url": "https://placehold.co/100x100?text=Commander1",
-      "description": "General Valor commander sprite"
+      "url": "https://agent8-games.verse8.io/assets/2d/v8_tiny_swords/Factions/Knights/Troops/Warrior/Warrior_Blue.png",
+      "description": "General Valor commander sprite - A medieval fantasy-style knight wearing blue armor"
     },
     "commander2": {
-      "url": "https://placehold.co/100x100?text=Commander2",
-      "description": "Archmage Frost commander sprite"
+      "url": "https://agent8-games.verse8.io/assets/2d/v8_tiny_swords/Factions/Knights/Troops/Pawn/Pawn_Blue.png",
+      "description": "Archmage Frost commander sprite - A medieval fantasy-style mage with blonde hair wearing a blue robe"
     },
     "commander3": {
-      "url": "https://placehold.co/100x100?text=Commander3",
-      "description": "Captain Shield commander sprite"
+      "url": "https://agent8-games.verse8.io/assets/2d/v8_tiny_swords/Factions/Knights/Troops/Archer/Archer_Blue.png",
+      "description": "Captain Shield commander sprite - A medieval fantasy-style archer character wearing armor with blue accents"
     }
   },
   "ui": {
-    "background": {
-      "url": "https://placehold.co/800x600?text=Background",
-      "description": "Game background"
+    "panel": {
+      "url": "https://agent8-games.verse8.io/assets/2D/vampire_survival_riped_asset/ui/frame/bg_frame_01.png",
+      "description": "UI panel background"
     },
-    "tower": {
-      "url": "https://placehold.co/100x200?text=Tower",
-      "description": "Player tower sprite"
+    "premiumPanel": {
+      "url": "https://agent8-games.verse8.io/assets/2D/vampire_survival_riped_asset/ui/frame/bg_frame_02.png",
+      "description": "Premium UI panel background for special screens"
     },
-    "enemyTower": {
-      "url": "https://placehold.co/100x200?text=EnemyTower",
-      "description": "Enemy tower sprite"
+    "goldIcon": {
+      "url": "https://agent8-games.verse8.io/assets/2D/vampire_survival_riped_asset/ingame_icon/icon_gold.png",
+      "description": "Gold currency icon"
+    },
+    "expIcon": {
+      "url": "https://placehold.co/50x50?text=EXP",
+      "description": "Experience icon"
     }
   }
 }
