@@ -1,0 +1,66 @@
+{
+  "monsters": {
+    "basic": {
+      "url": "https://placehold.co/100x100?text=Basic",
+      "description": "Basic monster sprite"
+    },
+    "tank": {
+      "url": "https://placehold.co/100x100?text=Tank",
+      "description": "Tank monster sprite"
+    },
+    "ranged": {
+      "url": "https://placehold.co/100x100?text=Ranged",
+      "description": "Ranged monster sprite"
+    },
+    "fast": {
+      "url": "https://placehold.co/100x100?text=Fast",
+      "description": "Fast monster sprite"
+    }
+  },
+  "enemies": {
+    "basic": {
+      "url": "https://placehold.co/100x100?text=EnemyBasic",
+      "description": "Enemy basic monster sprite"
+    },
+    "tank": {
+      "url": "https://placehold.co/100x100?text=EnemyTank",
+      "description": "Enemy tank monster sprite"
+    },
+    "ranged": {
+      "url": "https://placehold.co/100x100?text=EnemyRanged",
+      "description": "Enemy ranged monster sprite"
+    },
+    "fast": {
+      "url": "https://placehold.co/100x100?text=EnemyFast",
+      "description": "Enemy fast monster sprite"
+    }
+  },
+  "commanders": {
+    "commander1": {
+      "url": "https://placehold.co/100x100?text=Commander1",
+      "description": "General Valor commander sprite"
+    },
+    "commander2": {
+      "url": "https://placehold.co/100x100?text=Commander2",
+      "description": "Archmage Frost commander sprite"
+    },
+    "commander3": {
+      "url": "https://placehold.co/100x100?text=Commander3",
+      "description": "Captain Shield commander sprite"
+    }
+  },
+  "ui": {
+    "background": {
+      "url": "https://placehold.co/800x600?text=Background",
+      "description": "Game background"
+    },
+    "tower": {
+      "url": "https://placehold.co/100x200?text=Tower",
+      "description": "Player tower sprite"
+    },
+    "enemyTower": {
+      "url": "https://placehold.co/100x200?text=EnemyTower",
+      "description": "Enemy tower sprite"
+    }
+  }
+}
